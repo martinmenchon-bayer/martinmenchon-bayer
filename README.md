@@ -54,49 +54,53 @@ I have worked in different areas, such as:
 &nbsp;
 
 * **Database**<br>
-<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+<a name="database"></a>
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][database]
 &nbsp;
-<img src="https://custom-icon-badges.demolab.com/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="Oracle logo" title="Oracle" height="25" />
+[<img src="https://custom-icon-badges.demolab.com/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="Oracle logo" title="Oracle" height="25" />][database]
 &nbsp;
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />][database]
 &nbsp;
 
 * **Others**<br>
-<img src="https://img.shields.io/badge/Databricks-282C34?logo=databricks" alt="Databricks logo" title="Databricks" height="25" />
+<a name="others"></a>
+[<img src="https://img.shields.io/badge/Databricks-282C34?logo=databricks" alt="Databricks logo" title="Databricks" height="25" />][others]
 &nbsp;
-<img src="https://img.shields.io/badge/Terraform-282C34?logo=terraform" alt="Terraform logo" title="Terraform" height="25" />
+[<img src="https://img.shields.io/badge/Terraform-282C34?logo=terraform" alt="Terraform logo" title="Terraform" height="25" />][others]
 &nbsp;
-<img src="https://custom-icon-badges.demolab.com/badge/AWS-282C34.svg?logo=aws&logoColor=orange" alt="AWS logo" title="AWS" height="25" />
+[<img src="https://custom-icon-badges.demolab.com/badge/AWS-282C34.svg?logo=aws&logoColor=orange" alt="AWS logo" title="AWS" height="25" />][others]
 &nbsp;
-<img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" />
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" />][others]
 &nbsp;
-<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />][others]
 &nbsp;
-<img src="https://img.shields.io/badge/Unity3D-282C34?logo=unity" alt="Unity3D logo" title="Unity3D" height="25" />
+[<img src="https://img.shields.io/badge/Unity3D-282C34?logo=unity" alt="Unity3D logo" title="Unity3D" height="25" />][others]
 &nbsp;
-<img src="https://img.shields.io/badge/Qt_Framework-282C34?logo=qt" alt="Qt logo" title="Qt Framework" height="25" />
+[<img src="https://img.shields.io/badge/Qt_Framework-282C34?logo=qt" alt="Qt logo" title="Qt Framework" height="25" />][others]
 &nbsp;
-<img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex" alt="LaTeX logo" title="LaTeX" height="25" />
+[<img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex" alt="LaTeX logo" title="LaTeX" height="25" />][others]
 &nbsp;
 
 * **Artificial Intelligence**<br>
-<img src="https://img.shields.io/badge/Neural_Networks-282C34?" alt="Neural Networks logo" title="Neural Networks" height="25" />
+<a name="artificial_intelligence"></a>
+[<img src="https://img.shields.io/badge/Neural_Networks-282C34?" alt="Neural Networks logo" title="Neural Networks" height="25" />][artificial_intelligence]
 &nbsp;
-<img src="https://img.shields.io/badge/Deep_Learning-282C34?" alt="Deep Learning logo" title="Deep Learning" height="25" />
+[<img src="https://img.shields.io/badge/Deep_Learning-282C34?" alt="Deep Learning logo" title="Deep Learning" height="25" />][artificial_intelligence]
 &nbsp;
-<img src="https://img.shields.io/badge/Machine_Learning-282C34?" alt="Machine Learning logo" title="Machine Learning" height="25" />
+[<img src="https://img.shields.io/badge/Machine_Learning-282C34?" alt="Machine Learning logo" title="Machine Learning" height="25" />][artificial_intelligence]
 &nbsp;
-<img src="https://img.shields.io/badge/Data_Science-282C34?" alt="Data Science logo" title="Data Science" height="25" />
+[<img src="https://img.shields.io/badge/Data_Science-282C34?" alt="Data Science logo" title="Data Science" height="25" />][artificial_intelligence]
 &nbsp;
-<img src="https://img.shields.io/badge/Computer_Vision-282C34?" alt="Computer Vision logo" title="Computer Vision" height="25" />
+[<img src="https://img.shields.io/badge/Computer_Vision-282C34?" alt="Computer Vision logo" title="Computer Vision" height="25" />][artificial_intelligence]
 &nbsp;
 
 * **OS**<br>
-<img src="https://img.shields.io/badge/Mac-282C34?logo=apple" alt="Mac logo" title="Mac" height="25" />
+<a name="os"></a>
+[<img src="https://img.shields.io/badge/Mac-282C34?logo=apple" alt="Mac logo" title="Mac" height="25" />][os]
 &nbsp;
-<img src="https://custom-icon-badges.demolab.com/badge/Windows-282C34.svg?logo=windows11&logoColor=0078D6" alt="Windows logo" title="Windows" height="25" />
+[<img src="https://custom-icon-badges.demolab.com/badge/Windows-282C34.svg?logo=windows11&logoColor=0078D6" alt="Windows logo" title="Windows" height="25" />][os]
 &nbsp;
-<img src="https://custom-icon-badges.demolab.com/badge/Linux-282C34.svg?logo=linux&logoColor=ffffff" alt="Windows logo" title="Windows" height="25" />
+[<img src="https://custom-icon-badges.demolab.com/badge/Linux-282C34.svg?logo=linux&logoColor=ffffff" alt="Windows logo" title="Windows" height="25" />][os]
 &nbsp;
 
 
@@ -104,3 +108,7 @@ I have worked in different areas, such as:
 
 [programming_languages]: #programming_languages--
 [python_libraries]: #python_libraries--
+[database]: #database--
+[others]: #others--
+[artificial_intelligence]: #artificial_intelligence--
+[os]: #os--
