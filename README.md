@@ -1,6 +1,6 @@
 ## Hello there!
 
-My name is Martín; I am a Software Engineer and a Ph.D. at UNCPBA.<br>
+My name is Martín; I am a Software Engineer and a Ph.D. in Computational Mathematics.<br>
 I have worked in different areas, such as:
 * 👁️ Computer Vision
 * 📈 Sales forecasting
@@ -12,21 +12,88 @@ I have worked in different areas, such as:
 ##  Skills
 
 * **Programming Languages**<br>
-Python | Java | C/C++ | C# | Haxe | Bash | JavaScript
+<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=yellow" alt="Java logo" title="Java" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C++" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" />&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-282C34?logo=cshrp&logoColor=71D291" alt="C%23 logo" title="C%23" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Haxe-282C34?logo=haxe" alt="Haxe logo" title="Haxe" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Bash-282C34?logo=gnubash" alt="Bash logo" title="Bash" height="25" />
+&nbsp;
 
 * **Python Libraries**<br>
-Keras | Tensorflow | Pandas | Numpy | Selenium | Scikit-Learn | Matplotlib | OpenCV | Ray | Jupyter Notebook
+<img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" alt="Keras logo" title="Keras" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Tensorflow-282C34?logo=tensorflow" alt="Tensorflow logo" title="Tensorflow" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" alt="Pandas logo" title="Pandas" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Numpy-282C34?logo=numpy&logoColor=blue" alt="Numpy logo" title="Numpy" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium" alt="Numpy logo" title="Numpy" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-282C34?logo=scikit-Learn" alt="Scikit Learn logo" title="Scikit Learn" height="25" />
+&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-282C34?logo=matplotlib&logoColor=71D291" alt="Matplotlib logo" title="Matplotlib" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Ray-282C34?logo=ray" alt="Ray logo" title="Ray" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Polars-282C34?logo=polars" alt="Polars logo" title="Polars" height="25" />
+&nbsp;
 
 * **Database**<br>
-SQL | Oracle SQL | PostgreSQL | MySQL
-
+<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="Oracle logo" title="Oracle" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />
+&nbsp;
 * **Artificial Intelligence**<br>
-Neural Networks | Deep Learning | Machine Learning | Data Science | Computer Vision
+<img src="https://img.shields.io/badge/Neural_Networks-282C34?" alt="Neural Networks logo" title="Neural Networks" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Deep_Learning-282C34?" alt="Deep Learning logo" title="Deep Learning" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Machine_Learning-282C34?" alt="Machine Learning logo" title="Machine Learning" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Data_Science-282C34?" alt="Data Science logo" title="Data Science" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Computer_Vision-282C34?" alt="Computer Vision logo" title="Computer Vision" height="25" />
+&nbsp;
 
 * **Others**<br>
-Databricks | Terraform | AWS | LaTeX | Git | Docker | Qt Framework | Unity3D | OpenCL | Android app development | Agile software development
+<img src="https://img.shields.io/badge/Databricks-282C34?logo=databricks" alt="Databricks logo" title="Databricks" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Terraform-282C34?logo=terraform" alt="Terraform logo" title="Terraform" height="25" />
+&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-282C34.svg?logo=aws&logoColor=orange" alt="AWS logo" title="AWS" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Unity3D-282C34?logo=unity" alt="Unity3D logo" title="Unity3D" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Qt_Framework-282C34?logo=qt" alt="Qt logo" title="Qt Framework" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex" alt="LaTeX logo" title="LaTeX" height="25" />
+&nbsp;
 
 * **OS**<br>
-Mac | Windows | Linux
+<img src="https://img.shields.io/badge/Mac-282C34?logo=apple" alt="Mac logo" title="Mac" height="25" />
+&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-282C34.svg?logo=windows11&logoColor=0078D6" alt="Windows logo" title="Windows" height="25" />
+&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/Linux-282C34.svg?logo=linux&logoColor=ffffff" alt="Windows logo" title="Windows" height="25" />
+&nbsp;
+
 
 ### More info at: [Full CV](https://drive.google.com/file/d/1D6rteBfSVazB5RMiO5huj90rRIjIJxty/view) 
