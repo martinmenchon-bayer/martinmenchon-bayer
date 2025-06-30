@@ -52,6 +52,10 @@ I have worked in different areas, such as:
 &nbsp;
 [<img src="https://img.shields.io/badge/Polars-282C34?logo=polars" alt="Polars logo" title="Polars" height="25" />][python_libraries]
 &nbsp;
+[<img src="https://img.shields.io/badge/Kedro-282C34?logo=kedro" alt="Kedro logo" title="Kedro" height="25" />][python_libraries]
+&nbsp;
+[<img src="https://img.shields.io/badge/MLflow-282C34?logo=mlflow" alt="MLflow logo" title="MLflow" height="25" />][python_libraries]
+&nbsp;
 
 * **Database**<br>
 <a name="database"></a>
