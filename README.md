@@ -57,6 +57,7 @@ I have worked in different areas, such as:
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />
 &nbsp;
+
 * **Artificial Intelligence**<br>
 <img src="https://img.shields.io/badge/Neural_Networks-282C34?" alt="Neural Networks logo" title="Neural Networks" height="25" />
 &nbsp;
