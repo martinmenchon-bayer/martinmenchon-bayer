@@ -68,13 +68,6 @@ I have worked in different areas, such as:
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />][database]
 &nbsp;
 
-* **IoT**<br>
-<a name="iot"></a>
-[<img src="https://img.shields.io/badge/Raspberry_pi-282C34?logo=raspberrypi&logoColor=A22846" alt="Raspberry pi logo" title="Raspberry pi" height="25" />][iot]
-&nbsp;
-[<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00878F" alt="arduino logo" title="arduino" height="25" />][iot]
-&nbsp;
-
 * **Others**<br>
 <a name="others"></a>
 [<img src="https://img.shields.io/badge/Databricks-282C34?logo=databricks" alt="Databricks logo" title="Databricks" height="25" />][others]
