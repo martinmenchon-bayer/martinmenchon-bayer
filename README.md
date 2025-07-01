@@ -54,8 +54,6 @@ I have worked in different areas, such as:
 &nbsp;
 [<img src="https://img.shields.io/badge/Kedro-282C34?logo=kedro" alt="Kedro logo" title="Kedro" height="25" />][python_libraries]
 &nbsp;
-[<img src="https://img.shields.io/badge/MLflow-282C34?logo=mlflow" alt="MLflow logo" title="MLflow" height="25" />][python_libraries]
-&nbsp;
 [<img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit logo" title="Streamlit" height="25" />][python_libraries]
 &nbsp;
 
@@ -79,6 +77,8 @@ I have worked in different areas, such as:
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" />][others]
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />][others]
+&nbsp;
+[<img src="https://img.shields.io/badge/MLflow-282C34?logo=mlflow" alt="MLflow logo" title="MLflow" height="25" />][others]
 &nbsp;
 [<img src="https://img.shields.io/badge/Elasticsearch-282C34?logo=elasticsearch&logoColor=005571" alt="Elasticsearch logo" title="Elasticsearch" height="25" />][others]
 &nbsp;
