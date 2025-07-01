@@ -98,16 +98,6 @@ I have worked in different areas, such as:
 [<img src="https://img.shields.io/badge/Computer_Vision-282C34?" alt="Computer Vision logo" title="Computer Vision" height="25" />][artificial_intelligence]
 &nbsp;
 
-* **OS**<br>
-<a name="os"></a>
-[<img src="https://img.shields.io/badge/Mac-282C34?logo=apple" alt="Mac logo" title="Mac" height="25" />][os]
-&nbsp;
-[<img src="https://custom-icon-badges.demolab.com/badge/Windows-282C34.svg?logo=windows11&logoColor=0078D6" alt="Windows logo" title="Windows" height="25" />][os]
-&nbsp;
-[<img src="https://custom-icon-badges.demolab.com/badge/Linux-282C34.svg?logo=linux&logoColor=ffffff" alt="Windows logo" title="Windows" height="25" />][os]
-&nbsp;
-
-
 ### More info at: [Full CV](https://drive.google.com/file/d/1D6rteBfSVazB5RMiO5huj90rRIjIJxty/view) 
 
 [programming_languages]: #programming_languages--
@@ -115,4 +105,3 @@ I have worked in different areas, such as:
 [database]: #database--
 [others]: #others--
 [artificial_intelligence]: #artificial_intelligence--
-[os]: #os--
