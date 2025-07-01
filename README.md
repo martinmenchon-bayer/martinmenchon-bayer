@@ -87,6 +87,8 @@ I have worked in different areas, such as:
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />][others]
 &nbsp;
+[<img src="https://img.shields.io/badge/Elasticsearch-282C34?logo=elasticsearch&logoColor=005571" alt="Elasticsearch logo" title="Elasticsearch" height="25" />][others]
+&nbsp;
 [<img src="https://img.shields.io/badge/Unity3D-282C34?logo=unity" alt="Unity3D logo" title="Unity3D" height="25" />][others]
 &nbsp;
 [<img src="https://img.shields.io/badge/Qt_Framework-282C34?logo=qt" alt="Qt logo" title="Qt Framework" height="25" />][others]
