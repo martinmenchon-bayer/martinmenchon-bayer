@@ -15,19 +15,19 @@ I have worked in different areas, such as:
 <a name="programming_languages"></a>
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />][programming_languages]
 &nbsp;
-[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=yellow" alt="Java logo" title="Java" height="25" />][programming_languages]
-&nbsp;
 [<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C++" height="25" />][programming_languages]
 &nbsp;
 [<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" />][programming_languages]
 &nbsp;
 [<img src="https://custom-icon-badges.demolab.com/badge/C%23-282C34?logo=cshrp&logoColor=71D291" alt="C%23 logo" title="C%23" height="25" />][programming_languages]
 &nbsp;
+[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=yellow" alt="Java logo" title="Java" height="25" />][programming_languages]
+&nbsp;
+[<img src="https://img.shields.io/badge/Bash-282C34?logo=gnubash" alt="Bash logo" title="Bash" height="25" />][programming_languages]
+&nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />][programming_languages]
 &nbsp;
 [<img src="https://img.shields.io/badge/Haxe-282C34?logo=haxe" alt="Haxe logo" title="Haxe" height="25" />][programming_languages]
-&nbsp;
-[<img src="https://img.shields.io/badge/Bash-282C34?logo=gnubash" alt="Bash logo" title="Bash" height="25" />][programming_languages]
 &nbsp;
 
 * **Python Libraries**<br>
