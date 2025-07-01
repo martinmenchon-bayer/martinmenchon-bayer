@@ -68,6 +68,13 @@ I have worked in different areas, such as:
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />][database]
 &nbsp;
 
+* **IoT**<br>
+<a name="iot"></a>
+[<img src="https://img.shields.io/badge/Raspberry_pi-282C34?logo=raspberrypi&logoColor=A22846" alt="Raspberry pi logo" title="Raspberry pi" height="25" />][iot]
+&nbsp;
+[<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00878F" alt="arduino logo" title="arduino" height="25" />][iot]
+&nbsp;
+
 * **Others**<br>
 <a name="others"></a>
 [<img src="https://img.shields.io/badge/Databricks-282C34?logo=databricks" alt="Databricks logo" title="Databricks" height="25" />][others]
@@ -86,11 +93,11 @@ I have worked in different areas, such as:
 &nbsp;
 [<img src="https://img.shields.io/badge/Html5-282C34?logo=html5" alt="Html5 logo" title="Html5" height="25" />][others]
 &nbsp;
-[<img src="https://img.shields.io/badge/CSS-282C34?logo=css" alt="Css logo" title="Css" height="25" />][others]
+[<img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=663399" alt="Css logo" title="Css" height="25" />][others]
 &nbsp;
 [<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs" alt="Vuedotjs logo" title="Vuedotjs" height="25" />][others]
 &nbsp;
-[<img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex" alt="LaTeX logo" title="LaTeX" height="25" />][others]
+[<img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex&logoColor=008080" alt="LaTeX logo" title="LaTeX" height="25" />][others]
 &nbsp;
 
 * **Artificial Intelligence**<br>
@@ -111,5 +118,6 @@ I have worked in different areas, such as:
 [programming_languages]: #programming_languages--
 [python_libraries]: #python_libraries--
 [database]: #database--
+[iot]: #iot--
 [others]: #others--
 [artificial_intelligence]: #artificial_intelligence--
