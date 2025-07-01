@@ -56,6 +56,8 @@ I have worked in different areas, such as:
 &nbsp;
 [<img src="https://img.shields.io/badge/MLflow-282C34?logo=mlflow" alt="MLflow logo" title="MLflow" height="25" />][python_libraries]
 &nbsp;
+[<img src="https://img.shields.io/badge/Streamlit-282C34?logo=streamlit" alt="Streamlit logo" title="Streamlit" height="25" />][python_libraries]
+&nbsp;
 
 * **Database**<br>
 <a name="database"></a>
@@ -81,6 +83,12 @@ I have worked in different areas, such as:
 [<img src="https://img.shields.io/badge/Unity3D-282C34?logo=unity" alt="Unity3D logo" title="Unity3D" height="25" />][others]
 &nbsp;
 [<img src="https://img.shields.io/badge/Qt_Framework-282C34?logo=qt" alt="Qt logo" title="Qt Framework" height="25" />][others]
+&nbsp;
+[<img src="https://img.shields.io/badge/Html5-282C34?logo=html5" alt="Html5 logo" title="Html5" height="25" />][others]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS-282C34?logo=css" alt="Css logo" title="Css" height="25" />][others]
+&nbsp;
+[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs" alt="Vuedotjs logo" title="Vuedotjs" height="25" />][others]
 &nbsp;
 [<img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex" alt="LaTeX logo" title="LaTeX" height="25" />][others]
 &nbsp;
