@@ -80,12 +80,6 @@ I have worked in different areas, such as:
 &nbsp;
 [<img src="https://img.shields.io/badge/Qt_Framework-282C34?logo=qt" alt="Qt logo" title="Qt Framework" height="25" />][others]
 &nbsp;
-[<img src="https://img.shields.io/badge/Html5-282C34?logo=html5" alt="Html5 logo" title="Html5" height="25" />][others]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=663399" alt="Css logo" title="Css" height="25" />][others]
-&nbsp;
-[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs" alt="Vuedotjs logo" title="Vuedotjs" height="25" />][others]
-&nbsp;
 [<img src="https://img.shields.io/badge/LaTeX-282C34?logo=latex&logoColor=008080" alt="LaTeX logo" title="LaTeX" height="25" />][others]
 &nbsp;
 
