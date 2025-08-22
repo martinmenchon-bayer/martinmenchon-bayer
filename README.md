@@ -27,8 +27,6 @@ I have worked in different areas, such as:
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />][programming_languages]
 &nbsp;
-[<img src="https://img.shields.io/badge/Haxe-282C34?logo=haxe" alt="Haxe logo" title="Haxe" height="25" />][programming_languages]
-&nbsp;
 
 * **Python Libraries**<br>
 <a name="python_libraries"></a>
@@ -63,8 +61,6 @@ I have worked in different areas, such as:
 &nbsp;
 [<img src="https://custom-icon-badges.demolab.com/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="Oracle logo" title="Oracle" height="25" />][database]
 &nbsp;
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />][database]
-&nbsp;
 
 * **Others**<br>
 <a name="others"></a>
@@ -79,8 +75,6 @@ I have worked in different areas, such as:
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />][others]
 &nbsp;
 [<img src="https://img.shields.io/badge/MLflow-282C34?logo=mlflow" alt="MLflow logo" title="MLflow" height="25" />][others]
-&nbsp;
-[<img src="https://img.shields.io/badge/Elasticsearch-282C34?logo=elasticsearch&logoColor=005571" alt="Elasticsearch logo" title="Elasticsearch" height="25" />][others]
 &nbsp;
 [<img src="https://img.shields.io/badge/Unity3D-282C34?logo=unity" alt="Unity3D logo" title="Unity3D" height="25" />][others]
 &nbsp;
